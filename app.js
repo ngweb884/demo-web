@@ -1,12 +1,5 @@
 const menu = [
-  {
-    id: 1,
-    title: "slider",
-    category: "shop",
-    img: "./images/1slider.PNG",
-    url:"https://ngweb884.github.io/js-app-1/",    
-    desc: `Javascript slider`,
-  },
+  
   {
     id: 2,
     title: "Tic Tac Toc",
