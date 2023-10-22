@@ -84,7 +84,9 @@ img:not(.logo) {
   width: 100%;
 }
 img {
-  display: block;
+  display: flex;
+  width: 200px;
+  height: 150px;
 }
 
 h1,
@@ -243,22 +245,3 @@ Menu
   padding-top: 1rem;
 }
 
-@media screen and (min-width: 768px) {
-  .menu-item {
-    grid-template-columns: 225px 1fr;
-    gap: 0 1.25rem;
-    max-width: 40rem;
-  }
-  .photo {
-    height: 175px;
-  }
-}
-@media screen and (min-width: 1200px) {
-  .section-center {
-    width: 95vw;
-    grid-template-columns: 1fr 1fr;
-  }
-  .photo {
-    height: 150px;
-  }
-}
