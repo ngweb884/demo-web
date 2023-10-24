@@ -1,6 +1,14 @@
 const menu = [
   
   {
+    id: 1,
+    title: "Quiz App Stack",
+    category: "javascript",
+    img: "./images/quiz.PNG",
+    url:"https://ngweb884.github.io/quiz-stack", 
+    desc: `Javascript ,Html, Css Quiz App Stack`,
+  },
+  {
     id: 2,
     title: "Tic Tac Toc",
     category: "game",
