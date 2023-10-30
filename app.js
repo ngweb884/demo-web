@@ -1,13 +1,14 @@
 const menu = [
-  
+
   {
     id: 1,
-    title: "Quiz App Stack",
+    title: "Matrix To Do",
     category: "javascript",
-    img: "./images/quiz.PNG",
-    url:"https://ngweb884.github.io/quiz-stack", 
-    desc: `Javascript ,Html, Css Quiz App Stack`,
+    img: "./images/1matrix.PNG",
+    url:"https://ngweb884.github.io/matrix-todo", 
+    desc: `Javascript ,Html, Css`,
   },
+ 
   {
     id: 2,
     title: "Tic Tac Toc",
